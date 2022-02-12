@@ -14,7 +14,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/wvTMw09.jpg>
+<!-- <img src=https://i.imgur.com/wvTMw09.jpg> -->
 </p>
   <p align="center">
 <a href="https://github.com/Dr-Asu"><img title="Author-Dr-Asu" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
